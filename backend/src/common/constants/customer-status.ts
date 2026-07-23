@@ -1,0 +1,9 @@
+export enum CustomerStatus {
+  LEAD = "LEAD",
+  CONTACTED = "CONTACTED",
+  QUALIFIED = "QUALIFIED",
+  PROPOSAL = "PROPOSAL",
+  NEGOTIATION = "NEGOTIATION",
+  WON = "WON",
+  LOST = "LOST",
+}
